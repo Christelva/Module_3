@@ -16,6 +16,5 @@ const assignGrade = function(i){
 
 for(i=60; i<=100; i++){
 assignGrade(i);
-console.log (i);
 console.log("Voor "+i+" punten krijg je een "+grade);
 }
